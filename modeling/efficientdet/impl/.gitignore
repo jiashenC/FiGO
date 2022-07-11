@@ -127,11 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# dev
-cache/*
-!cache/.gitkeep
-res/*
-!res/.gitkeep
-plot
-*.pth
+.idea/
+weights/
